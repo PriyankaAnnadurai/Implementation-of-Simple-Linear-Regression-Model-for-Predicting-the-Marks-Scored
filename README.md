@@ -69,8 +69,19 @@ print("Root Mean Square Error = ",rmse)
 ```
 
 ## Output:
+
+
+
+
 To read csv file
 ![265208842-8c572323-f493-4a60-a2ab-605cad98ce09](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/46abc92c-8264-4158-b221-ab8bc42f4d06)
+
+
+
+
+
+
+
 
 
 
@@ -86,8 +97,20 @@ To Read Head and Tail Files
 
 
 
+
+
+
+
+
+
+
 Compare Dataset
 ![265208945-0cd63521-445b-4816-be17-f07e07c113f6](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/f348c855-a4b0-4190-9ab4-476f47079d0c)
+
+
+
+
+
 
 
 
@@ -114,8 +137,21 @@ Predicted Value
 
 
 
+
+
+
+
+
+
+
+
+
 Graph For Training Set
 ![265209091-42b90a47-7157-4dbb-b339-469a120a1e3a](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/caefb1d8-40a0-4c75-b8c5-3683f03c79fb)
+
+
+
+
 
 
 
@@ -172,6 +208,11 @@ Graph For Testing Set
 
 
 
+
+
+
+
+
 Error
 ![265209187-9af672d3-8322-45b6-9c36-e971d7979970](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/e092012b-cbed-4bb6-9491-925c4e8b8e53)
 
@@ -180,30 +221,3 @@ Error
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
 
 
-To read csv file
-
-image
-
-To Read Head and Tail Files
-
-image
-
-Compare Dataset
-
-image
-
-Predicted Value
-
-image
-
-Graph For Training Set
-
-image
-
-Graph For Testing Set
-
-image
-
-Error
-
-image
