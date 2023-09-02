@@ -118,3 +118,32 @@ Error
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
+
+
+To read csv file
+
+image
+
+To Read Head and Tail Files
+
+image
+
+Compare Dataset
+
+image
+
+Predicted Value
+
+image
+
+Graph For Training Set
+
+image
+
+Graph For Testing Set
+
+image
+
+Error
+
+image
