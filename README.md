@@ -74,8 +74,15 @@ To read csv file
 
 
 
+
+
+
 To Read Head and Tail Files
 ![265208887-ddb8c986-8a26-4cfe-b61d-3fa767da2807](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/1fcb57d1-c99e-4bd5-b6ed-c33b3a83c681)
+
+
+
+
 
 
 
@@ -84,8 +91,26 @@ Compare Dataset
 
 
 
+
+
+
+
+
+
+
 Predicted Value
 ![265209012-081453ac-bfac-4604-a9b5-447a95e5503c](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/f8dc563b-4080-41ed-954b-922a85817df9)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -100,8 +125,43 @@ Graph For Training Set
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Graph For Testing Set
 ![265209126-1d1f9c4f-e993-4eb0-a637-5b00b0b83b0c](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/c4b20e0c-7586-455b-b904-9c62b187fc30)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
