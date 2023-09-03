@@ -69,7 +69,7 @@ print("Root Mean Square Error = ",rmse)
 
 ## Output:
 ### To Read All CSV Files
-![1](./1.png)
+![1](./)
 ### To Read Head and Tail Files
 ![2](./2.png)
 ### Compare Dataset
