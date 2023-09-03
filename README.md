@@ -8,18 +8,17 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. import the needed packages.
-2. Assigning hours to x and scores to y.
-3. Plot the scatter plot.
-4. Use mse,rmse,mae formula to find the values.
-
+1. Import the standard Libraries.
+2. Set variables for assigning dataset values.
+3. Import linear regression from sklearn.
+4. Assign the points for representing in the graph. 
+5. .Predict the regression for marks by using the representation of the graph. 
+6. Compare the graphs and hence we obtained the linear regression for the given datas.
 ## Program:
-```
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: PRIYANKA A
-RegisterNumber:  212222230113
-```
-```
+### Program to implement the simple linear regression model for predicting the marks scored.
+
+Developed by: PRIYANKA.A
+RegisterNumber: 212222230113
 # IMPORT REQUIRED PACKAGE
 import pandas as pd
 import numpy as np
@@ -66,158 +65,22 @@ mae=mean_absolute_error(y_test,y_pred)
 print('Mean Absolute Error = ',mae)
 rmse=np.sqrt(mse)
 print("Root Mean Square Error = ",rmse)
-```
+
 
 ## Output:
-
-
-
-
-To read csv file
-![265208842-8c572323-f493-4a60-a2ab-605cad98ce09](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/46abc92c-8264-4158-b221-ab8bc42f4d06)
-
-
-
-
-
-
-
-
-
-
-
-
-
-To Read Head and Tail Files
-![265208887-ddb8c986-8a26-4cfe-b61d-3fa767da2807](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/1fcb57d1-c99e-4bd5-b6ed-c33b3a83c681)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Compare Dataset
-![265208945-0cd63521-445b-4816-be17-f07e07c113f6](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/f348c855-a4b0-4190-9ab4-476f47079d0c)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Predicted Value
-![265209012-081453ac-bfac-4604-a9b5-447a95e5503c](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/f8dc563b-4080-41ed-954b-922a85817df9)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Graph For Training Set
-![265209091-42b90a47-7157-4dbb-b339-469a120a1e3a](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/caefb1d8-40a0-4c75-b8c5-3683f03c79fb)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Graph For Testing Set
-![265209126-1d1f9c4f-e993-4eb0-a637-5b00b0b83b0c](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/c4b20e0c-7586-455b-b904-9c62b187fc30)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Error
-![265209187-9af672d3-8322-45b6-9c36-e971d7979970](https://github.com/PriyankaAnnadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118351569/e092012b-cbed-4bb6-9491-925c4e8b8e53)
-
-
+### To Read All CSV Files
+![1](./1.png)
+### To Read Head and Tail Files
+![2](./2.png)
+### Compare Dataset
+![3](./3.png)
+### Predicted Valuw
+![4](./4.png)
+### Graph For Training Set
+![5](./5.png)
+### Graph For Testing Set
+![6](./6.png)
+### Error
+![7](./7.png)
 ## Result:
-Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
-
-
+Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
