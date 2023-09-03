@@ -69,12 +69,12 @@ print("Root Mean Square Error = ",rmse)
 
 ## Output:
 ### To Read All CSV Files
-![1](./)
+![1](./1.png)
 ### To Read Head and Tail Files
 ![2](./2.png)
 ### Compare Dataset
 ![3](./3.png)
-### Predicted Valuw
+### Predicted Value
 ![4](./4.png)
 ### Graph For Training Set
 ![5](./5.png)
